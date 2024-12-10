@@ -1,0 +1,3 @@
+#!/bin/bash
+python -m ipykernel install --user --name neuron-env --display-name "Python (neuron-env)"
+
