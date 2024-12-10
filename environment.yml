@@ -6,4 +6,6 @@ dependencies:
   - jupyter
   - matplotlib
   - neuron
+  - numpy
+  
 
